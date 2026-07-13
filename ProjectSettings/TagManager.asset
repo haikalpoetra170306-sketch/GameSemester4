@@ -3,13 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<< HEAD
   tags:
   - Senjata
+=======
+  tags: []
+>>>>>>> origin/ammar
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - 
+=======
+  - Player
+>>>>>>> origin/ammar
   - Water
   - UI
   - 

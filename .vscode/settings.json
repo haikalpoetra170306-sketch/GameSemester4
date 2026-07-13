@@ -67,6 +67,10 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "GameUAS.slnx",
+=======
+    "dotnet.defaultSolution": "GameSemester4.slnx",
+>>>>>>> origin/ammar
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
