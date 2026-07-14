@@ -1,23 +1,10 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-guid: a45ea7951e40ac44b861b3e124e6f56e
-========
-guid: 9fbc726f1c1a9da4b85566d0a3967c79
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bola batu 2.png.meta
+guid: dadd50deb9ce2254e8ac83e22b2a06df
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6817057394227480713
-    second: bola batu 2_0
-========
-guid: cbf79dd4c50ac99428f60bebaa79a86b
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -7685503754813117336
-    second: heard_0
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+      213: 4831474537763335666
+    second: Menyerang_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -110,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -139,23 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-      name: bola batu 2_0
+      name: Menyerang_0
       rect:
         serializedVersion: 2
-        x: 179
-        y: 40
-        width: 299
-        height: 296
-========
-      name: heard_0
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 48
-        width: 955
-        height: 1278
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+        x: 138
+        y: 29
+        width: 825
+        height: 1350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,13 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-      spriteID: 988016ce49d0b9e50800000000000000
-      internalID: 6817057394227480713
-========
-      spriteID: 86cee66fd0b975590800000000000000
-      internalID: -7685503754813117336
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+      spriteID: 2fd6abc6e78dc0340800000000000000
+      internalID: 4831474537763335666
       vertices: []
       indices: 
       edges: []
@@ -189,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-      bola batu 2_0: 6817057394227480713
-========
-      heard_0: -7685503754813117336
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+      Menyerang_0: 4831474537763335666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

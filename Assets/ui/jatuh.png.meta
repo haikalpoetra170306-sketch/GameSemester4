@@ -1,23 +1,13 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-guid: a45ea7951e40ac44b861b3e124e6f56e
-========
-guid: 9fbc726f1c1a9da4b85566d0a3967c79
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bola batu 2.png.meta
+guid: 1db34d6b600495d4eb38bcb495349521
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6817057394227480713
-    second: bola batu 2_0
-========
-guid: cbf79dd4c50ac99428f60bebaa79a86b
-TextureImporter:
-  internalIDToNameTable:
+      213: -7238221812563814533
+    second: jatuh_0
   - first:
-      213: -7685503754813117336
-    second: heard_0
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+      213: -891890113080047887
+    second: jatuh_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -110,19 +100,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -139,23 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-      name: bola batu 2_0
+      name: jatuh_0
       rect:
         serializedVersion: 2
-        x: 179
-        y: 40
-        width: 299
-        height: 296
-========
-      name: heard_0
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 48
-        width: 955
-        height: 1278
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+        x: 16
+        y: 294
+        width: 386
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,13 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-      spriteID: 988016ce49d0b9e50800000000000000
-      internalID: 6817057394227480713
-========
-      spriteID: 86cee66fd0b975590800000000000000
-      internalID: -7685503754813117336
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+      spriteID: b7756a87c9bac8b90800000000000000
+      internalID: -7238221812563814533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jatuh_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 99
+        width: 899
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f64e27eaae5f93f0800000000000000
+      internalID: -891890113080047887
       vertices: []
       indices: 
       edges: []
@@ -189,11 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Scenes/LEVEL1/15.png.meta
-      bola batu 2_0: 6817057394227480713
-========
-      heard_0: -7685503754813117336
->>>>>>>> origin/zulytha:Assets/ui/heard.png.meta
+      jatuh_0: -7238221812563814533
+      jatuh_1: -891890113080047887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
