@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/MainMenu/Main Menu.mp3.meta
-guid: bdd98529138ffa2438fd9a24129a321e
-========
-guid: 5803b1c0163fd4746bbf570aa2eb9abd
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/level 3.mp3.meta
+guid: 0a6321337b6760b40a0ea690e3bf76ff
 AudioImporter:
   externalObjects: {}
   serializedVersion: 8

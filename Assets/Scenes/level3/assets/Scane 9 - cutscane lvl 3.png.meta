@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/Background/Scane 6 - cutscane level 2.png.meta
-guid: b75186c33658cc845b6420ac6b7ff10a
+guid: d84527bf305e00f4c95e97e6f440f5c6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9201860793673605057
-    second: Scane 6 - cutscane level 2_0
-========
-guid: 5df4c9e0cde023e468ceeacc4a9d4e08
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 4333502441642569006
-    second: bg level 3_0
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bg level 3.jpeg.meta
+      213: 2674446093021713371
+    second: Scane 9 - cutscane lvl 3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -105,26 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Scenes/Background/Scane 6 - cutscane level 2.png.meta
-      name: Scane 6 - cutscane level 2_0
-========
-      name: bg level 3_0
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bg level 3.jpeg.meta
+      name: Scane 9 - cutscane lvl 3_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-<<<<<<<< HEAD:Assets/Scenes/Background/Scane 6 - cutscane level 2.png.meta
         width: 1920
         height: 1080
-========
-        width: 1600
-        height: 900
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bg level 3.jpeg.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,13 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Scenes/Background/Scane 6 - cutscane level 2.png.meta
-      spriteID: 1cf528763a393bf70800000000000000
-      internalID: 9201860793673605057
-========
-      spriteID: e2da463c281b32c30800000000000000
-      internalID: 4333502441642569006
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bg level 3.jpeg.meta
+      spriteID: bd39d714d8a8d1520800000000000000
+      internalID: 2674446093021713371
       vertices: []
       indices: 
       edges: []
@@ -158,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Scenes/Background/Scane 6 - cutscane level 2.png.meta
-      Scane 6 - cutscane level 2_0: 9201860793673605057
-========
-      bg level 3_0: 4333502441642569006
->>>>>>>> origin/asepp:Assets/Scenes/level3/assets/bg level 3.jpeg.meta
+      Scane 9 - cutscane lvl 3_0: 2674446093021713371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
