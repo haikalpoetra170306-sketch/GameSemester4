@@ -6,11 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< HEAD:Assets/Scenes/level3/assets/anima/Player_Idle.anim
-  m_Name: Player_Idle
-========
-  m_Name: Idle
->>>>>>>> origin/zulytha:Assets/ui/Idle.anim
+  m_Name: Player_Walk
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -25,21 +21,21 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-<<<<<<<< HEAD:Assets/Scenes/level3/assets/anima/Player_Idle.anim
-      value: {fileID: 7033863154900737214, guid: 4d9c5441f7dbc2849b33a9e13712255e, type: 3}
-    - time: 0.016666668
-      value: {fileID: 223064437827379982, guid: 4d9c5441f7dbc2849b33a9e13712255e, type: 3}
-========
-      value: {fileID: 7718913816956900940, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+      value: {fileID: 532691931090390228, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
     - time: 0.083333336
-      value: {fileID: -878471149283811701, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
->>>>>>>> origin/zulytha:Assets/ui/Idle.anim
+      value: {fileID: 2132856094476002504, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - time: 0.16666667
+      value: {fileID: -3763217209079551797, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - time: 0.25
+      value: {fileID: -7429337291536287993, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - time: 0.33333334
+      value: {fileID: -1441702850121571544, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 12
+  m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -56,23 +52,17 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-<<<<<<<< HEAD:Assets/Scenes/level3/assets/anima/Player_Idle.anim
-    - {fileID: 7033863154900737214, guid: 4d9c5441f7dbc2849b33a9e13712255e, type: 3}
-    - {fileID: 223064437827379982, guid: 4d9c5441f7dbc2849b33a9e13712255e, type: 3}
-========
-    - {fileID: 7718913816956900940, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
-    - {fileID: -878471149283811701, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
->>>>>>>> origin/zulytha:Assets/ui/Idle.anim
+    - {fileID: 532691931090390228, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - {fileID: 2132856094476002504, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - {fileID: -3763217209079551797, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - {fileID: -7429337291536287993, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
+    - {fileID: -1441702850121571544, guid: b8c249fd745f4ef4a8d365dec5714a11, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-<<<<<<<< HEAD:Assets/Scenes/level3/assets/anima/Player_Idle.anim
-    m_StopTime: 0.033333335
-========
-    m_StopTime: 0.16666667
->>>>>>>> origin/zulytha:Assets/ui/Idle.anim
+    m_StopTime: 0.35000002
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
